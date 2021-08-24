@@ -1,0 +1,22 @@
+{
+  "name": "tailwind-component",
+  "version": "1.0.0",
+  "description": "Kumpulan Component Menggunakan Tailwind CSS",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx tailwindcss -o style.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrgood82/Tailwind-CSS-componen.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrgood82/Tailwind-CSS-componen/issues"
+  },
+  "homepage": "https://github.com/mrgood82/Tailwind-CSS-componen#readme",
+  "devDependencies": {
+    "tailwindcss": "^2.2.7"
+  }
+}
